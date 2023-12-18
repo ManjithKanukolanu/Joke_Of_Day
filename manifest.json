@@ -1,0 +1,13 @@
+{
+    "name":"Joke-Of-Day",
+    "description":"Get a new Joke Everyday",
+    "manifest_version":3,
+    "version":"0.0.1",
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon": "images/fav128.png"
+    },
+    "icons": {
+        "128": "images/fav128.png"
+    }
+}
